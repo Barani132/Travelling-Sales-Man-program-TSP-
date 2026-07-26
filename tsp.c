@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int dist[4][4] = {
         {0, 10, 15, 20},
